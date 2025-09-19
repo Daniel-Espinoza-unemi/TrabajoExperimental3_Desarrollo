@@ -1,4 +1,4 @@
-# Formulario React Profesional
+# Formulario React 
 
 Este proyecto es un **formulario de registro** hecho con React, con diseño moderno.
 
@@ -33,6 +33,6 @@ npm install
 npm start
 
 ## Estructura del proyecto
-scr/App.js: Componente principal del formulario
-src/App.css: Estilos del formulario y de la página
-public/index.html: Archivo HTML principal 
+-scr/App.js: Componente principal del formulario
+-src/App.css: Estilos del formulario y de la página
+-public/index.html: Archivo HTML principal 
