@@ -33,9 +33,13 @@ npm install
 npm start
 
 ## Estructura del proyecto
--scr/App.js: 
-  -Componente principal del formulario
--src/App.css: 
-  -Estilos del formulario y de la página
--public/index.html: 
-  -Archivo HTML principal 
+
+- `src/App.js`  
+  - Componente principal del formulario
+
+- `src/App.css`  
+  - Estilos del formulario y de la página
+
+- `public/index.html`  
+  - Archivo HTML principal
+
